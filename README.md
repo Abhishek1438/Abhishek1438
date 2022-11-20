@@ -50,6 +50,6 @@
 
 
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek1438&show_icons=true&locale=en" alt="abhishek1438" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek1438&show_icons=true&locale=en" alt="abhishek1438" /></p>
 
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek1438&" alt="abhishek1438" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek1438&" alt="abhishek1438" /></p>
