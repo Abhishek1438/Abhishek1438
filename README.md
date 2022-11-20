@@ -1,4 +1,4 @@
-[![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
+![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Manithia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113f4e6433af17279ad25114c95b00ae31f360234d&rid=giphy.gif&ct=g">
